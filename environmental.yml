@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - r-base=4.3
+  - r-irkernel 
   - r-tidyverse
   - r-random
   - r-matrix
