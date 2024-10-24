@@ -7,3 +7,4 @@ dependencies:
   - r-random
   - r-matrix
   - r-devtools
+  - rstudio
