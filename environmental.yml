@@ -1,0 +1,9 @@
+name: PsiMatrix
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.3
+  - r-tidyverse
+  - r-random
+  - r-matrix
+  - r-devtools
