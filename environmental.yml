@@ -1,13 +1,9 @@
-name: PsiMatrix
+name: generate_var_matrix
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - r-base=4.3
-  - rstudio
+  - r-base=4.2
   - r-tidyverse
-  - r-desc
-  - r-irkernel 
-  - r-tidyverse
-  - r-random
-  - r-matrix
-  - r-devtools
+  - r-knitr
+  - r-rmarkdown
