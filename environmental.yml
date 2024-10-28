@@ -7,3 +7,5 @@ dependencies:
   - r-tidyverse
   - r-knitr
   - r-rmarkdown
+  - r-irkernel
+  - jupyter
