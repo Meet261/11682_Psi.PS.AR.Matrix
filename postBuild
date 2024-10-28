@@ -1,0 +1,4 @@
+#!/bin/bash
+# Install RStudio server to run RStudio in the Binder container
+wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-2022.07.2-576-amd64.deb
+sudo dpkg -i rstudio-server-2022.07.2-576-amd64.deb
